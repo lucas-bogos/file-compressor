@@ -14,7 +14,7 @@ Simplesmente fácil manutenção, vamos supor que precisamos adicionar uma nova 
 
 A construção é baseada no Strategy, para solução do problema de compressão de arquivos.
 
-<img src="/docs/assets/file-compressor-diagram.png">
+<img src="/docs/assets/file-compressor-strategy.jpeg">
 
 ### Como rodar a aplicação?
 
