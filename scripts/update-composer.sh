@@ -1,0 +1,1 @@
+composer dump-autoload -o && composer update && echo "Composer atualizado com êxito"

@@ -1,0 +1,16 @@
+{
+    "name": "lucasbogos/file-compressor",
+    "description": "Sistema de compressão de arquivos usando o padrão Strategy",
+    "autoload": {
+        "psr-4": {
+            "FileCompressor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Bogos",
+            "email": "bogoslucas1@gmail.com"
+        }
+    ],
+    "require": {}
+}
