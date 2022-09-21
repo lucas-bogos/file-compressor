@@ -19,8 +19,7 @@ class Tar implements ICompressorStrategy
 
     echo '<font face="arial" color="#cb1516">Seu arquivo está sendo comprimido...</font></br>';
 
-    if (!exec("tar -czf $tarfile $pathScaned")) return false;
-
-    return true;
+    if (!exec("tar -czf $tarfile $pathScaned")) return true;
+    
   }
 }

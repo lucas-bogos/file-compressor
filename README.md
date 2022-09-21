@@ -1,6 +1,6 @@
 ## File Compressor
 
-O File Compressor é um sistema para compressão de arquivos do tipo ``` .rar ```, ``` .zip ``` e ``` .tar ```, é construido usando o pattern Strategy, para melhor manutenção e qualidade de código.
+O File Compressor é um sistema para compressão de arquivos do tipo ``` .zip ``` e ``` .tar ```, é construido usando o pattern Strategy, para melhor manutenção e qualidade de código.
 
 ### Afinal, o que é Padrão Strategy?
 
